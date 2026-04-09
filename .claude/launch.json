@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cloudit-mis",
+      "runtimeExecutable": "/usr/bin/python3",
+      "runtimeArgs": ["/tmp/cloudit-mis/run.py"],
+      "port": 5500
+    },
+    {
+      "name": "email-dashboard",
+      "runtimeExecutable": "/opt/homebrew/bin/node",
+      "runtimeArgs": ["/tmp/email-dashboard/serve.js"],
+      "port": 8090
+    }
+  ,{
+      "name": "tax-calculator",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/ashishjindal/Desktop/TaxComputationSoftware", "run", "dev", "--", "--port", "5174"],
+      "port": 5174
+    }
+  ]
+}

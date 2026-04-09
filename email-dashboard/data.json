@@ -1,0 +1,695 @@
+{
+  "lastUpdated": "2026-03-24T13:01:00Z",
+  "scanMode": "incremental",
+  "scanRange": "Mar 23–24, 2026 (scan through 13:01 UTC Mar 24)",
+  "summary": {
+    "critical": 3,
+    "high": 13,
+    "medium": 23,
+    "sam": 5,
+    "group": 4,
+    "action_required": 34,
+    "negative": 7
+  },
+  "emails": [
+    {
+      "time": "2026-03-24T13:00:46Z",
+      "from": "scarlett.cardoza@cloudit-us.com",
+      "fromName": "Scarlett Cardoza (Sr. Associate F&A)",
+      "subject": "Fw: Consolidated List of Open Points for Reliable Metals",
+      "keyPoints": "Scarlett forwarded the full consolidated list of open points for Reliable Metals to client (Katie at evermoreaac.com) with attachment. This is the culmination of an active back-and-forth: Katie replied earlier (12:25) saying she and Meg are working on invoices but old invoices cannot have JEs updated by CLOUDIT. Scarlett also raised an ongoing SharePoint access issue blocking deposit breakdown images.",
+      "actionRequired": "1) Ensure Katie's responses on the open points are addressed. 2) Resolve SharePoint access issue so deposit breakdown images are accessible. 3) Align with Katie's team on which JEs CLOUDIT can update vs. which are locked.",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5kGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-24T11:52:21Z",
+      "from": "no-reply@rippling.com",
+      "fromName": "Rippling (2nd reminder)",
+      "subject": "Action required: You have pending tasks in Ryan Hohman LLC — REPEAT ALERT",
+      "keyPoints": "Second Rippling alert for Ryan Hohman LLC payroll still not approved. Deadline: 2:30 PM PST Mar 25, 2026. Task: '[ACTION REQUIRED] - Unable to Run Payroll for Ryan Hohman LLC'. First alert was sent Mar 23 at 11:51. PAYROLL WILL BE BLOCKED if not resolved by tomorrow afternoon.",
+      "actionRequired": "URGENT — Ryan Hohman LLC payroll approval deadline is tomorrow (Mar 25) 2:30 PM PST. Approve the timesheet/payroll run immediately to prevent payroll failure.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5j7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-24T11:37:16Z",
+      "from": "sam@cloudit-us.com",
+      "fromName": "Sam Mazumdar (CEO)",
+      "subject": "Re: Hybrid Work Infrastructure & MDM Technology & Compliance handling charges",
+      "keyPoints": "Sam has issued an all-staff message: 'Any email from HR desk, consider from management.' He is offering a direct call at 8:30 PM IST for anyone with 'reasonable doubt' on the IT charge topic. This is the CEO's formal public resolution attempt to contain the employee pushback, following multiple formal complaints forwarded by Rashi (HR). Represents the top-level closure attempt for this dispute.",
+      "actionRequired": "Monitor call outcomes and any further employee responses. If Sam's 8:30 PM IST call does not contain the situation, broader policy adjustment or all-hands communication may be needed.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAChEzJXAAAdxmfzH64jRpXI9yH9ccU2AAD0TRw7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "sam", "action_required"]
+    },
+    {
+      "time": "2026-03-23T23:44:51Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "RE: Tax Returns for this week",
+      "keyPoints": "Jessie explicitly asks: 'What is the status of TopQM. Emails were sent from the client/my friend.' A client called TopQM was apparently trying to reach jmWilliams and CLOUDIT has not responded — Jessie has a personal relationship with this client and is tracking it closely.",
+      "actionRequired": "1) Immediately check and respond to any emails from TopQM client. 2) Provide Jessie with a status update on TopQM in the current 'Tax Returns for this week' thread.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["critical", "action_required", "negative", "group"]
+    },
+    {
+      "time": "2026-03-23T23:43:19Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "RE: Tax Returns for this week",
+      "keyPoints": "Jessie directing Upasana on this week's returns. No meeting tomorrow but available for a call. Asking specific questions about '2025 MTZ Brother-...' return. Shift in tone — more operational, working through the list, but still actively monitoring every item.",
+      "actionRequired": "Upasana or assigned team member must respond to Jessie's MTZ Brother question and confirm progress on all tax returns for this week's delivery.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["high", "action_required", "group"]
+    },
+    {
+      "time": "2026-03-23T23:21:13Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "RE: Monday",
+      "keyPoints": "Jessie is explicitly furious — 'I needed the 8 returns to be completed today. I only got 3 with no communication for not completing this.' She issued a directive: 'Please do not work on any emails, no Canopy task notifications for anything other than the items below.' She is restricting Melita's work scope to a defined list only. This is a direct management intervention into how CLOUDIT operates. Continuation of the escalation from Mar 23 morning.",
+      "actionRequired": "CRITICAL — Jessie has restricted Melita to a specific work list only. Immediately: 1) Confirm with Melita which 5 remaining returns are being prioritized. 2) Communicate a clear delivery schedule to Jessie. 3) Do NOT work on items outside Jessie's defined list until all 8 returns are delivered.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["critical", "action_required", "negative", "group"]
+    },
+    {
+      "time": "2026-03-23T23:23:35Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "Fwd: Jessie Williams has uploaded a file to your client portal",
+      "keyPoints": "Jessie forwarding a Procel Brazilian Jiu-Jitsu client portal file notification, asking CLOUDIT to 'check to see if this was done please.' Client (procelbjj@gmail.com) had uploaded something on March 22. Melita replied Mar 24 at 10:25 with details on the Roth IRA statement.",
+      "actionRequired": "Confirm Procel's Roth IRA 2025 situation is fully addressed and communicate to Jessie.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["medium", "action_required", "group"]
+    },
+    {
+      "time": "2026-03-23T20:06:36Z",
+      "from": "no-reply@rippling.com",
+      "fromName": "Rippling",
+      "subject": "[Important] Reminder that the following payroll runs are due for approval",
+      "keyPoints": "Ryan Hohman LLC payroll run (Mar 08 – Mar 21) has an upcoming approval deadline. Auto-approved status shown for other entities. Ryan Hohman LLC specifically is flagged as requiring manual approval action before the deadline.",
+      "actionRequired": "Log into Rippling and approve the Ryan Hohman LLC payroll run before the deadline (Mar 25, 2:30 PM PST).",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-24T08:15:38Z",
+      "from": "shefali.bansal@cloudit-us.com",
+      "fromName": "Shefali Bansal (CAS Consultant)",
+      "subject": "Re: lennon address change",
+      "keyPoints": "Shefali provided detailed interest payment information for Sean and Joann Lennon (2025 tax year): $21,193.15 paid on 6/11/2025 and $8,395.91 paid on 1/9/2026. Checks attached. This is in response to Joseph Matheson (CPA) who asked about address changes and interest payments. Relevant for Lennon 2025 tax return preparation.",
+      "actionRequired": "Ensure the Lennon interest payment figures are correctly input into the 2025 tax return being prepared by Matheson CPA / CLOUDIT.",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-24T10:16:26Z",
+      "from": "namya.setia@cloudit-us.com",
+      "fromName": "Namya Setia (CAS Consultant)",
+      "subject": "Re: Minutes of meeting - 03/17/2026",
+      "keyPoints": "Namya reports to client Leigh that CLOUDIT has Dropbox and QBO access via Double credentials, BUT the client has not yet granted access permissions within those platforms. CLOUDIT can log in but cannot actually operate as a delegate. Blocking CAS work.",
+      "actionRequired": "Client (Leigh) needs to grant CLOUDIT delegate/access permissions within QBO and Dropbox — follow up with client to unblock CAS operations.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T21:00:44Z",
+      "from": "mturner@brightskiesservice.com",
+      "fromName": "Masheka Turner MBA (BrightSkies)",
+      "subject": "Nashville Nuero 2025 CLeanup",
+      "keyPoints": "Masheka requesting CLOUDIT start the 2025 cleanup for Nashville Nero (likely Nashville Neuro). Pragati responded on Mar 24 at 09:04 with 'Okay Masheka!' acknowledging the task.",
+      "actionRequired": "Confirm Nashville Neuro 2025 cleanup is actively assigned and started — verify Pragati's team has the scope and access needed.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VtAAAdxmfzH64jRpXI9yH9ccU2AAD0TCvHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T18:15:32Z",
+      "from": "anorthcutt@brightskiesservice.com",
+      "fromName": "April Northcutt (BrightSkies)",
+      "subject": "Re: Update on Remedy Plumbing Loans",
+      "keyPoints": "April acknowledged she will 'pull these now' — responding to a request related to Remedy Plumbing loan details. Indicates active document retrieval in progress for the Remedy Plumbing account.",
+      "actionRequired": "Follow up with April to confirm loan documents were received and reconciliation/recording is underway.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VtAAAdxmfzH64jRpXI9yH9ccU2AAD0TCvGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T17:01:45Z",
+      "from": "anorthcutt@brightskiesservice.com",
+      "fromName": "April Northcutt (BrightSkies)",
+      "subject": "FW: Request for Deposit Details and PPG Login Credentials (client reply)",
+      "keyPoints": "April forwarded the reply from Terri Cook (RC Painting LLC CFO, terri@rcpaintingtn.com) who provided deposit details and likely PPG login credentials. This is the client's formal response to Sandesh's original request from Mar 20. Reconciliation of 4 RC Painting deposits can now proceed.",
+      "actionRequired": "Process the client's deposit details from Terri Cook — match the 4 unreconciled RC Painting deposits ($10,366 on 03/09; $256, $4,161 on 03/17; $4,500 on 03/05) against invoices using PPG access.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VtAAAdxmfzH64jRpXI9yH9ccU2AAD0TCvCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-24T11:39:51Z",
+      "from": "monika.manker@cascfo.com",
+      "fromName": "Monika Manker (CASCFO HR Manager)",
+      "subject": "Fw: Interview Invite - Naman Ojha",
+      "keyPoints": "Monika forwarding a trail email from Naman Ojha, who was directly interviewed by the Genpact team for an MDM profile position. Monika assures management: 'We assure to maintain the budget and communicate the same.' Candidate has attachment (likely interview feedback or resume).",
+      "actionRequired": "Review Naman Ojha's interview feedback and Genpact's recommendation. Confirm budget alignment before making an offer.",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5j2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-24T08:38:27Z",
+      "from": "monika.manker@cloudit-us.com",
+      "fromName": "Monika Manker (HR Manager)",
+      "subject": "Fw: Salary Advance",
+      "keyPoints": "Monika forwarding an employee salary advance request to Rashi (HR), asking: 'Please suggest if this request can be managed. If yes, would we need some security from him or consent form etc.?' — an employee has requested a salary advance and HR is evaluating the process/policy.",
+      "actionRequired": "HR (Rashi) to advise on salary advance policy — confirm if eligible, what security/consent forms are required, and respond to the requesting employee.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5jkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-24T11:12:17Z",
+      "from": "sam@cloudit-us.com",
+      "fromName": "Sam Mazumdar (CEO)",
+      "subject": "Re: Interview Recording & Feedback Submission – Aayushi Agarwal (ATL Position for Office)",
+      "keyPoints": "Sam reviewed candidate Aayushi Agarwal for the ATL (Asst. Team Lead) Office position and gave directive: 'Put her on Hold. Works for Loan staffing — for AP & AR or Reconciliation process. Not for internal CLOUDIT.' Candidate is approved for external loan staffing but not for direct CLOUDIT internal hire.",
+      "actionRequired": "Communicate decision to Tanisha (interviewer) and update candidate tracking — Aayushi is on hold for loan staffing placement, not internal CLOUDIT hire.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VvAAAdxmfzH64jRpXI9yH9ccU2AAD0TJnzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "sam", "action_required"]
+    },
+    {
+      "time": "2026-03-24T12:37:25Z",
+      "from": "do-not-reply@taxdome.com",
+      "fromName": "TaxDome — Eric & Andrea Ribachonek",
+      "subject": "Eric & Andrea Ribachonek — Document uploads + client message (cluster)",
+      "keyPoints": "Three TaxDome notifications in quick succession: 1) Client replied to '2025 Documents Requested' message confirming uploads: charitable contributions, dependent care (Carson), Sch C expenses, same home office space. 2) Documents uploaded: Schedule C Income and Expenses.xlsx + Charitable contributions.xlsx + Dependent care docx. 3) TAX 6 - Open Items Received task assigned (due today Mar 24) — update return with open items received from client.",
+      "actionRequired": "Assign preparer to update the Eric & Andrea Ribachonek 2025 return with newly uploaded client documents (Sch C, charitable, dependent care, home office confirmation). Complete TAX 6 task today.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AADhFeddAAAdxmfzH64jRpXI9yH9ccU2AAD0S8gHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T08:24:50Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "Re: jmWilliams - Monday (ESCALATED)",
+      "keyPoints": "Jessie is explicitly furious — 'This response is a complete waste of time when the list below could have been worked on and should have been done last week.' She is doubling down on the 8 tax returns required. CLOUDIT sent context/explanation (Melita, Ammie) but Jessie rejected it and demanded focus on the client list. Ammie also disclosed a preparer stepped away due to health issues, affecting capacity.",
+      "actionRequired": "Escalate immediately — client is at breaking point. Prioritize all 8 listed tax returns (Benencio, Van Den Berg, Penn, Edwards, Ford, Alleyne, Rivera, Hapgood). Assign backup capacity NOW given preparer health situation.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5hUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["critical", "action_required", "negative", "group"]
+    },
+    {
+      "time": "2026-03-23T14:39:19Z",
+      "from": "hiring@cloudit-us.com",
+      "fromName": "Rashi (HR) — forwarding multiple employee complaints",
+      "subject": "Fw: Concern Regarding Hybrid Infrastructure & Technology Charge [cluster of 4+ related emails]",
+      "keyPoints": "Multiple CLOUDIT India employees raising formal objections to the new Hybrid Infrastructure & Technology Charge salary deduction. Rashi (HR Asst Manager) forwarding individual employee letters to Andrew (Sir). Employees argue the charge is unfair as the company benefits from remote infrastructure savings. Vini acknowledged some employees were not informed in advance, causing confusion. Andrew responded to Ankit explaining the company's rationale.",
+      "actionRequired": "Review escalated employee concerns — determine whether additional communication, policy clarification, or adjustment is needed to contain the growing pushback before it spreads further",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required", "negative"]
+    },
+    {
+      "time": "2026-03-23T14:40:52Z",
+      "from": "hiring@cloudit-us.com",
+      "fromName": "Rashi (HR) — forwarding Richa Agarwal complaint",
+      "subject": "Fw: Concern regarding monthly deduction",
+      "keyPoints": "Richa Agarwal (CAS Senior Associate) formally objects to the monthly deduction. Argues employees already bear internet costs without reimbursement, and adding another deduction is a financial burden. Requests reconsideration or further clarification. Forwarded by Rashi to Sam and Andrew.",
+      "actionRequired": "Policy response needed — Richa is a senior associate formally objecting. Growing list of employees raising same concern needs coordinated HR communication or policy adjustment.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required", "negative"]
+    },
+    {
+      "time": "2026-03-23T14:41:43Z",
+      "from": "hiring@cloudit-us.com",
+      "fromName": "Rashi (HR) — forwarding Bhairavi Mistry complaint",
+      "subject": "Fw: Concern Regarding IT Charges Deduction & Request for WiFi Reimbursement",
+      "keyPoints": "Bhairavi Mistry (CAS Associate) formally objects to Hybrid Infrastructure & Technology Charge AND explicitly requests WiFi reimbursement. Written formally as a grievance letter. Forwarded by Rashi to Sam and Andrew.",
+      "actionRequired": "Now 3+ employees formally complaining via HR. WiFi reimbursement demand added on top of charge reversal request. Coordinated response needed before this spreads to entire India team.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required", "negative"]
+    },
+    {
+      "time": "2026-03-23T11:51:22Z",
+      "from": "no-reply@rippling.com",
+      "fromName": "Rippling",
+      "subject": "Action required: You have pending tasks in Ryan Hohman LLC",
+      "keyPoints": "PAYROLL BLOCKED — timesheet/approval hasn't been approved. Deadline to resolve: 2:30 PM PST on Mar 25, 2026. Task: '[ACTION REQUIRED] - Unable to Run Payroll for Ryan Hohman LLC'. Client will not be paid if not resolved by deadline.",
+      "actionRequired": "Immediately approve or escalate the timesheet/payroll approval for Ryan Hohman LLC before Mar 25, 2026 at 2:30 PM PST",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5hmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-23T15:26:11Z",
+      "from": "ankit.gupta@cloudit-us.com",
+      "fromName": "Ankit Gupta (CAS Consultant)",
+      "subject": "Re: Clarification on Hybrid Infrastructure & Technology Charge",
+      "keyPoints": "Ankit is NOT satisfied with Andrew's explanation. Explicitly states: 'it does not seem equitable for employees to be asked to bear the cost of infrastructure maintenance, which should rightfully be the company's responsibility.' Continuing to push back despite Andrew's official response. Sam has now stepped in directly, asking Ankit to call him.",
+      "actionRequired": "Sam is handling this directly (phone call with Ankit). Monitor outcome — if Ankit remains unsatisfied after call, determine if policy adjustment or broader communication is warranted.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required", "negative"]
+    },
+    {
+      "time": "2026-03-23T15:32:52Z",
+      "from": "no-reply@signrequest.com",
+      "fromName": "SignRequest (CLOUDIT HR)",
+      "subject": "AUTOMATIC REMINDER: CLOUDIT Back Office Services Pvt.Ltd. — Varsha Gidwani",
+      "keyPoints": "Automatic reminder for Varsha Gidwani Independent Contractor Agreement — still unsigned. This is a separate contract from the Vandana Mehra SignRequest reminder already captured.",
+      "actionRequired": "Follow up on Varsha Gidwani's Independent Contractor Agreement on SignRequest — two contractor agreements now pending signature",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-23T15:49:30Z",
+      "from": "sam@cloudit-us.com",
+      "fromName": "Sam Mazumdar (CEO)",
+      "subject": "Re: Clarification on Hybrid Infrastructure & Technology Charge",
+      "keyPoints": "Sam is personally intervening in the IT charge dispute. Message to Ankit: 'Why don't you feel free to call me now and get the final clarification.' Sam stepping in indicates the issue has risen to CEO level.",
+      "actionRequired": "Sam is handling call with Ankit. If call does not resolve the issue, broader policy communication to all India staff may be needed. Track whether resolution holds.",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VvAAAdxmfzH64jRpXI9yH9ccU2AAD0TJnwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["sam", "action_required"]
+    },
+    {
+      "time": "2026-03-23T15:55:35Z",
+      "from": "anorthcutt@brightskiesservice.com",
+      "fromName": "April Northcutt (BrightSkies)",
+      "subject": "FW: Request for Deposit Details and PPG Login Credentials",
+      "keyPoints": "RC Painting LLC's CFO Terri Cook provided Pittsburgh Paints (PPG) login credentials in plaintext email (Login: BDU8785549). Also 4 unreconciled deposits from RC Painting need invoice matching: $10,366 (03/09), $256 (03/17) Buildzen LLC, $4,161 (03/17), $4,500 (03/05) East & Westbrook. CLOUDIT's Sandesh CAS originally requested this on Mar 20. NOTE: Credentials sent over unencrypted email — security consideration.",
+      "actionRequired": "1) Log into PPG account for RC Painting and reconcile the 4 deposits against invoices. 2) Security note: advise client not to share passwords over email in future.",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VtAAAdxmfzH64jRpXI9yH9ccU2AAD0TCvBAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T14:13:38Z",
+      "from": "monika.manker@cascfo.com",
+      "fromName": "Monika Manker (CASCFO HR Manager)",
+      "subject": "CASCFO - Final Offer Letter Draft",
+      "keyPoints": "Final offer letter draft sent for CASCFO. Draft combines current offer letter format with legal input from Dhruv. Marked importance: HIGH. Attachment included.",
+      "actionRequired": "Review and approve/redline the CASCFO Final Offer Letter Draft; coordinate with legal (Dhruv) if changes needed",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-23T14:24:11Z",
+      "from": "info@newageironworks.com",
+      "fromName": "New Age Ironworks",
+      "subject": "Re: March Bills NAIW Paid",
+      "keyPoints": "Client replied with 3 Certificates of Fitness from FDNY attached. This is in response to a billing/payment thread from March. March bills appear to be confirmed paid.",
+      "actionRequired": "Review FDNY certificates, confirm March bills reconciled and filed",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T14:24:05Z",
+      "from": "info@newageironworks.com",
+      "fromName": "New Age Ironworks",
+      "subject": "Re: March Invoices That Need Payment",
+      "keyPoints": "Client replied to the March invoices thread (original sent by Bhairavi on Mar 20). Client response with attachments — likely confirmation or additional documents related to outstanding invoices.",
+      "actionRequired": "Review client reply and attachments; confirm whether outstanding March invoices are now resolved or still need follow-up",
+      "isRead": false,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T14:23:28Z",
+      "from": "monika.manker@cascfo.com",
+      "fromName": "Monika Manker (CASCFO HR Manager)",
+      "subject": "Re: Reconciliation of Outstanding Invoices and NDC till 31th Dec'2025_Genpact",
+      "keyPoints": "CASCFO providing NDC NIL certificate for Dec 2025 from CASCFO (Genpact invoice reconciliation). Monika says 'Do let us know if any other details are required.' Has attachments. Vaibhav is the recipient on their side.",
+      "actionRequired": "Acknowledge receipt of NDC NIL certificate; confirm whether reconciliation of Genpact outstanding invoices is now complete",
+      "isRead": true,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5iIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T13:35:47Z",
+      "from": "no-reply@rippling.com",
+      "fromName": "Rippling",
+      "subject": "Action required: You have pending tasks in CVPro Management LLC",
+      "keyPoints": "Task: Grant additional users permission to reset 2-factor devices in CVPro Management LLC. No due date specified but marked action required.",
+      "actionRequired": "Log into Rippling for CVPro Management LLC and grant the required 2FA reset permissions",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5h4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T09:57:31Z",
+      "from": "mwilson@brightskiesservice.com",
+      "fromName": "Makayla Wilson MBA (BrightSkies)",
+      "subject": "Re: Hart Healthcare COA changes",
+      "keyPoints": "Hart Healthcare's COA (Chart of Accounts) has been modified and simplified. New account 'Wages Unpaid' created. CAS team is instructed to use new accounts going forward and apply these when posting payments.",
+      "actionRequired": "Update bookkeeping workflows for Hart Healthcare using the revised COA; apply 'Wages Unpaid' account correctly for any unpaid wage entries",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VtAAAdxmfzH64jRpXI9yH9ccU2AAD0TCu6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T12:44:07Z",
+      "from": "joseph@mathesoncpa.com",
+      "fromName": "Joseph Matheson CPA",
+      "subject": "can we meet for a minute",
+      "keyPoints": "Joseph Matheson requesting a quick meeting. Shefali (CAS Consultant) responded and sent a meeting invite. A Matheson call was also canceled by Shefali (importance: high calendar cancellation).",
+      "actionRequired": "Confirm whether the Matheson meeting was rescheduled after cancellation; follow up with Joseph if needed",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5hrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-23T13:16:03Z",
+      "from": "mmaraghi@mmb-co.com",
+      "fromName": "Michael Maraghi CPA (MMB & Co)",
+      "subject": "RE: Attorney Letters for BlocPower Audit 2024 (Received in 2025)",
+      "keyPoints": "Mike Maraghi shared a ShareSafe link for attorney letters related to BlocPower Audit 2024. Alisha (CAS Consultant) had previously flagged an access issue. Mike confirmed and provided the link. Alisha confirmed receipt.",
+      "actionRequired": "Ensure Alisha (or responsible CAS team member) can access and download the attorney letters from the ShareSafe link for the BlocPower audit files",
+      "isRead": true,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AAD0S5hyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-22T05:12:00Z",
+      "from": "no-reply@signrequest.com",
+      "fromName": "SignRequest (CLOUDIT HR)",
+      "subject": "AUTOMATIC REMINDER: Independent Contractor Agreement - Vandana Mehra",
+      "keyPoints": "Pending signature on Vandana Mehra Independent Contractor Agreement. This is an automatic reminder — original sent Mar 19, still unsigned",
+      "actionRequired": "Review and sign the Independent Contractor Agreement for Vandana Mehra on SignRequest",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AADzBO6OAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["high", "action_required"]
+    },
+    {
+      "time": "2026-03-21T18:00:00Z",
+      "from": "noreply@clientfinportal.com",
+      "fromName": "Client Financial Portal",
+      "subject": "Timelogs Locking Tomorrow",
+      "keyPoints": "Cutoff date: 2026-03-18; hours will be locked tomorrow",
+      "actionRequired": "Review and submit any pending timelogs before lockout",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAGdTrxAAAdxmfzH64jRpXI9yH9ccU2AADzBUFTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-21T16:21:00Z",
+      "from": "sam@cloudit-us.com",
+      "fromName": "Sam Mazumdar",
+      "subject": "Fw: Daily Time Worked Report",
+      "keyPoints": "Sam requesting Work Composer daily report for all + Controllers/ATLs by team",
+      "actionRequired": "Coordinate with Alan on daily time report generation",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VvAAAdxmfzH64jRpXI9yH9ccU2AADzBfqHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "sam", "action_required"]
+    },
+    {
+      "time": "2026-03-21T16:54:00Z",
+      "from": "sam@cloudit-us.com",
+      "fromName": "Sam Mazumdar",
+      "subject": "Re: CLOUDIT Salary Upload Sheet - Feb_2026 (Remote)",
+      "keyPoints": "Salary processing confirmed DONE; new format attached for future transfers",
+      "actionRequired": "Save new format template for future use",
+      "isRead": true,
+      "hasAttachments": true,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAFS3VvAAAdxmfzH64jRpXI9yH9ccU2AADzBfqIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "sam"]
+    },
+    {
+      "time": "2026-03-21T19:10:00Z",
+      "from": "joseph@mathesoncpa.com",
+      "fromName": "Joseph Matheson CPA",
+      "subject": "RE: lennon address change",
+      "keyPoints": "Coordination needed — who is keeper of address lists to avoid duplication",
+      "actionRequired": "Clarify list ownership; update records with new address",
+      "isRead": false,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AADzBO6FAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "tags": ["medium", "action_required"]
+    },
+    {
+      "time": "2026-03-20T22:40:00Z",
+      "from": "jessie@jmwilliamscpa.com",
+      "fromName": "Jessie Williams, CPA MBA",
+      "subject": "Monday",
+      "keyPoints": "CEO frustrated about delays — only 1 return provided by Friday. Lists 8 client tax returns needed Monday: Benencio, Van Den Berg, Penn, Edwards, Ford, Alleyne, Rivera, Hapgood",
+      "actionRequired": "Complete all 8 listed client tax returns immediately",
+      "isRead": true,
+      "hasAttachments": false,
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADY5ZDRiM2MzLWQwMzUtNGYxMC1hZGUwLTBjOTJiYjk1Nzg1NwBGAAAAAAAGksiJtejpT7M7kInINB51BwAdxmfzH64jRpXI9yH9ccU2AAAAAAEMAAAdxmfzH64jRpXI9yH9ccU2AADy1MepAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "group": "jmwilliamscpagroup@cloudit-us.com",
+      "tags": ["critical", "action_required", "negative", "group"]
+    }
+  ],
+  "informational": [
+    {
+      "category": "IT Charge Dispute — Status Update (Mar 23 afternoon)",
+      "items": [
+        "Sam Mazumdar (CEO) personally stepped in at 15:49 — invited Ankit to call him directly for 'final clarification'",
+        "Total formal employee complaints forwarded to Andrew/Sam: at least 3 (Ankit Gupta, Richa Agarwal, Bhairavi Mistry)",
+        "Situation status: ACTIVE — Sam handling directly. Outcome of Sam-Ankit call not yet visible in email."
+      ]
+    },
+    {
+      "category": "Dime Bank Wire Transfers (Mar 23 afternoon — COMPLETED)",
+      "items": [
+        "DWR-03079296: $23,666.67 — COMPLETED (status progression: pending release 11:26 → transmitted 11:26 → pending delivery 11:26 → completed 11:40)",
+        "DWR-03079380: $29,065.00 — COMPLETED (status progression: pending release 11:36 → transmitted 11:37 → pending delivery 11:37 → completed 11:40)"
+      ]
+    },
+    {
+      "category": "TaxDome Task Updates (Mar 23 afternoon)",
+      "items": [
+        "Doreen Clark — 'Prep' task: assigned, status No status, due Mar 30, 2026",
+        "Doreen Clark — 'EN (US) (Tax Preparation) 1040 - Prepare Tax Return - first prep': assigned, status In progress, due Mar 30, 2026"
+      ]
+    },
+    {
+      "category": "Security Alerts",
+      "items": [
+        "Zoho new sign-in alert for clarkfinancials@cloudit-us.com (Mar 23, 6:42 AM HADT) — Windows/Chrome. Normal if Grace Clark working; flag if unexpected.",
+        "RC Painting LLC CFO (Terri Cook) sent PPG login credentials over unencrypted email — credentials now in CLOUDIT inbox. Advise client on secure credential sharing."
+      ]
+    },
+    {
+      "category": "TaxDome Task Updates (Mar 23)",
+      "items": [
+        "IAM Accounting LLC — 'Prepare Next Month Cycle' task: assigned then marked Completed (due 2026-03-28)",
+        "Mahoning Muffler & Brake — 'Finalize Monthly Books' task: marked Completed"
+      ]
+    },
+    {
+      "category": "Bill.com Payments",
+      "items": [
+        "Nationwide Paving LLC — 3x offline bill payment notifications marked as paid"
+      ]
+    },
+    {
+      "category": "BrightSkies Service",
+      "items": [
+        "Zoom meeting link shared by anorthcutt@brightskiesservice.com (Meeting ID: 872 4682 8124)",
+        "CAREER THRIVERS Agenda and Review — Makayla Wilson sent agenda with CTR and Recon sheet",
+        "Hart Healthcare COA changes (captured in main emails)",
+        "RC Painting PPG credentials + 4 unreconciled deposits — captured in main emails"
+      ]
+    },
+    {
+      "category": "CASCFO Internal",
+      "items": [
+        "CASCFO Billing sheet discussion — Teams meeting invite from monika.manker@cloudit-us.com",
+        "CASCFO Employee count tracker, attrition analysis (Mar 23, 2026) — sent to management"
+      ]
+    },
+    {
+      "category": "HR / Onboarding",
+      "items": [
+        "Welcome Aboard! emails (x2) — new CLOUDIT hires onboarded (tanisha.jaiswal@cloudit-us.com)",
+        "Candidate Details for Today's Scheduled Interviews — sent to Adarsh (donna@cloudit-us.com)",
+        "Employee IT charge thread: Andrew responded to Ankit explaining company rationale (andrew.jindal@cloudit-us.com sent at 14:27)",
+        "Vini acknowledged some employees not informed in advance about IT deduction (vini@cloudit-us.com)",
+        "Paychex activity: Maryah Prince changed mailing address in Employee Access (Family Support Care LLC — 70167671)"
+      ]
+    },
+    {
+      "category": "jmWilliams Thread — Mar 23 Evening / Mar 24 (ESCALATION CONTINUES)",
+      "items": [
+        "jessie@jmwilliamscpa.com (23:21 Mar 23) — CRITICAL: Only got 3 of 8 returns; restricted Melita to defined task list only; no other email/Canopy work permitted (captured in main emails)",
+        "jessie@jmwilliamscpa.com (23:23 Mar 23) — Forwarded Procel portal file, asking if done",
+        "jessie@jmwilliamscpa.com (23:43 Mar 23) — Tax Returns for this week: asking about MTZ Brother, no meeting tomorrow",
+        "jessie@jmwilliamscpa.com (23:44 Mar 23) — CRITICAL: Asking about TopQM status — client is Jessie's personal friend (captured in main emails)",
+        "melita@cloudit-us.com (07:58 Mar 24) — Updated Jessie: 6.5 hours worked on 1040 returns, completed returns shared for review",
+        "melita@cloudit-us.com (10:25 Mar 24) — Replied on Procel: Roth IRA statement shows no 2025 contributions"
+      ]
+    },
+    {
+      "category": "IT Charge Dispute — Resolution Attempt (Mar 24)",
+      "items": [
+        "Sam Mazumdar all-staff message (11:37 Mar 24): 'Any email from HR desk, consider from management.' Offered 8:30 PM IST call for doubts (captured as HIGH above)",
+        "Nikita (Operations) sent policy explanation to team (09:39): explains laptop damage policy context",
+        "Nikita to Vini (08:57): clarified management was informed in advance; acknowledged communication gap with teams",
+        "Status: CEO-level containment in progress. Monitor for further employee responses after 8:30 PM IST call."
+      ]
+    },
+    {
+      "category": "Reliable Metals — Active Reconciliation Thread (Mar 24)",
+      "items": [
+        "Scarlett (10:24): Following up — still unable to access deposit breakdown images in SharePoint",
+        "Katie (evermoreaac.com, 12:25): Replied — old invoices locked (created by Reliable), Meg and Katie working on them; CLOUDIT cannot update those JEs",
+        "Scarlett (12:57): Resending queries + supporting spreadsheets for Katie to review internally",
+        "Scarlett (13:00): Forwarded consolidated list of all open points to Katie with attachment",
+        "Status: Actively progressing, client engaged. SharePoint access remains a blocker."
+      ]
+    },
+    {
+      "category": "CASCFO / HR Internal (Mar 24)",
+      "items": [
+        "Attrition analysis follow-up (Monika 11:42): Key reason candidates decline = less competitive compensation vs. Genpact; Genpact culture awareness (long hours/weekends) also a factor",
+        "Sachi (09:12): Asking about key reasons for candidate offer declines",
+        "Naman Ojha interview via Genpact: MDM profile candidate, Monika assures budget will be maintained (attachment)",
+        "Salary advance request: Monika asking Rashi for policy guidance; security/consent form question",
+        "Donna (07:58): Warm resignation response to Sam's farewell message — 'I'll miss being a part of the team too'"
+      ]
+    },
+    {
+      "category": "jmWilliams Thread Responses (internal — Mar 23 morning)",
+      "items": [
+        "melita@cloudit-us.com (07:27) — sent context on organizer review progress to Jessie",
+        "jessie@jmwilliamscpa.com (08:24) — rejected context, demanded list be worked on (captured as CRITICAL above)",
+        "melita@cloudit-us.com (09:17) — confirmed organizers reviewed and addressed in Canopy",
+        "ammie@cloudit-us.com (13:06) — disclosed preparer stepped away due to health/personal reasons"
+      ]
+    },
+    {
+      "category": "Automated Notifications",
+      "items": [
+        "SignRequest automatic reminder — Vandana Mehra contractor agreement (still pending signature)",
+        "SignRequest automatic reminder — Varsha Gidwani contractor agreement (still pending signature)",
+        "Teamwork task updates — Mejia & Associates: 10+ task completions/edits (Tax tasks)",
+        "TaxDome task assignments: EXT - Prepare Extension, TAX 4/6 tasks",
+        "Paychex activity notifications (Family Support Care LLC)",
+        "Dime Bank ACH payment notifications (JET FUNDING INC — $18,365)",
+        "Dime Bank wire completions: $23,666.67 + $29,065.00 (Mar 23 afternoon)",
+        "Payentry email confirmations (x2)",
+        "ShareFile activity notifications",
+        "ICICI Bank payment credit (Rs 75,000) & account statement"
+      ]
+    },
+    {
+      "category": "Newsletters & Marketing",
+      "items": [
+        "The AI Pixel (Substack) — Nvidia GPT moment for graphics",
+        "Nicolas Boucher — JPMorgan AI tool newsletter",
+        "Make.com — pre-built automation templates",
+        "Cryptonite Ventures Substack",
+        "Ruben Hassid Substack",
+        "LastPass — 30% off promotion",
+        "Online Trainings — Microsoft Copilot/ChatGPT webinar"
+      ]
+    }
+  ],
+  "keySenders": [
+    {
+      "sender": "jessie@jmwilliamscpa.com",
+      "count": 6,
+      "context": "jmWilliams CEO — CRITICAL ongoing escalation; 8 tax returns demanded; only 3 delivered; restricted Melita's work scope; also asking about TopQM client (personal friend). Mar 23 late night emails show deepening frustration."
+    },
+    {
+      "sender": "hiring@cloudit-us.com",
+      "count": 7,
+      "context": "HR (Rashi) — forwarding 3 formal employee IT charge complaints to Andrew+Sam; cluster through Mar 23 14:41"
+    },
+    {
+      "sender": "monika.manker@cascfo.com",
+      "count": 3,
+      "context": "CASCFO HR Manager — offer letter + NDC reconciliation + Naman Ojha interview forward"
+    },
+    {
+      "sender": "info@newageironworks.com",
+      "count": 2,
+      "context": "Client — March bills paid + invoice thread replied"
+    },
+    {
+      "sender": "sam@cloudit-us.com",
+      "count": 7,
+      "context": "CEO — salary processing, daily reports, IT charge all-staff message (Mar 24 11:37 — HR emails = management), candidate hold decision (Aayushi)"
+    },
+    {
+      "sender": "anorthcutt@brightskiesservice.com",
+      "count": 4,
+      "context": "BrightSkies — PPG credentials + deposit reconciliation + Remedy Plumbing loan docs + client (Terri Cook) response forwarded"
+    },
+    {
+      "sender": "mturner@brightskiesservice.com",
+      "count": 3,
+      "context": "BrightSkies CEO — Nashville Neuro 2025 cleanup requested, Divine Royal Care sheet activity"
+    },
+    {
+      "sender": "no-reply@rippling.com",
+      "count": 4,
+      "context": "Payroll actions — Ryan Hohman LLC blocked (CRITICAL, deadline Mar 25 2:30 PM PST — now 2nd reminder), payroll approval reminder, CVPro 2FA"
+    },
+    {
+      "sender": "scarlett.cardoza@cloudit-us.com",
+      "count": 3,
+      "context": "CAS Sr. Associate — Active on Reliable Metals: SharePoint access issue, pre-reconciliation queries, consolidated open points forwarded to client"
+    }
+  ]
+}
