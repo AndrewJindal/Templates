@@ -61,7 +61,9 @@
       "Bash(npm install:*)",
       "Bash(npx tailwindcss:*)",
       "Bash(rm -f \"/Users/ashishjindal/Desktop/TaxComputationSoftware/src/App.css\")",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(brew install:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
